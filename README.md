@@ -10,3 +10,6 @@ This project using golang and Gin
 - Using of pointers
 - Search in slices (array in golang is called the slice, because ? i not ideia)
 - A checkout the product, this case o product is books
+
+
+## THIS REPOSITORY NOT HAS FORMATATION OR RULES OF ORGANIZATION THE DIRECTORYS
