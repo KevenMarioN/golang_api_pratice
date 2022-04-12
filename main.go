@@ -16,7 +16,7 @@ type book struct {
 
 var books = []book{
 	{ID: "1", Title: "Bom dia Espirito Santo", Author: "Benny Hinn", Quantity: 20},
-	{ID: "2", Title: "Bem-vindo Espirito Santo", Author: "Benny Hinn", Quantity: 5},
+	{ID: "2", Title: "Bem-vindo Espirito Santo", Author: "Benny Hinn", Quantity: 100},
 	{ID: "3", Title: "O falar em línguas", Author: "Luciano Súbira", Quantity: 50},
 }
 
